@@ -14,13 +14,14 @@ Right now, I’m excited about Coding practises, Golang and much promising Rust 
 </p>
 
 
+
+👨‍💻 My projects and blogs are available at [sarathsp.com](https://sarathsp.com)
+
+💬 Ask me about **Golang, GNU/Linux, Python REST, Malayalam, networking**
+
+📫 You can reach me on **sarathsp06@gmail.com** 
+
 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
-
-👨‍💻 My projects are available at [sarathsp.com](https://sarathsp.com)
-
-💬 Ask me about **Kubernetes, TypeScript, Golang, Docker, GNU/Linux, networking**
-
-📫 You can reach me on **sarathsp06@gmail.com**
 
 👯 I’m looking to collaborate on tools built with golang or rust
 
