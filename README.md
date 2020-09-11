@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Sarath Sadasican Pillai</h1>
+<h1 align="center">Hello, I'm Sarath Sadasivan Pillai</h1>
 
 I'm Sarath. I'm a backend developer,and I mostly work with Web Backend Services and fault tolerant distributed systems. I care deeply about building interfaces that are releable and writing code that is readable.
 
@@ -6,12 +6,10 @@ Right now, I’m excited about Coding practises, Golang and much promising Rust 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarathsp06" alt="sarathsp06" title="sarathsp06" />
-  <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label=user" alt="VSCode" title="VSCode" />
   <img src="https://badgen.net/badge/icon/git?icon=git&label=user" alt="git" title="Git" />
   <img src="https://badgen.net/keybase/pgp/sarathsp06?icon=keybase" alt="keybase" title="Keybase" />
   <img src="https://badgen.net/badge/icon/terminal?icon=terminal&label=lover" alt="terminal" title="terminal" />
   <img src="https://badgen.net/badge/icon/pypi?icon=pypi&label=hacker" alt="pypi" title="Python" />
-  <img src="https://badgen.net/badge/icon/firefox?icon=firefox&label=user" alt="firefox" title="firefox" />
   <img src="https://badgen.net/badge/icon/typescript?icon=typescript&label=fan" alt="typeescript" title="Typecript" />
 </p>
 
@@ -32,6 +30,7 @@ Right now, I’m excited about Coding practises, Golang and much promising Rust 
   <img src="https://api.iconify.design/logos:docker-icon.svg" alt="docker" width="32" height="32"/>
   <img src="https://api.iconify.design/logos:redis.svg" alt="redis" width="32" height="32"/>
   <img src="https://api.iconify.design/logos:mysql.svg" alt="mysql" width="32" height="32"/>
+  <img src="https://api.iconify.design/logos:git.svg" alt="rust" width="32" height="32"/>
   <img src="https://api.iconify.design/logos:linux-mint.svg" alt="linux-mint" width="32" height="32"/>
   <img src="https://api.iconify.design/logos:python.svg" alt="linux" width="32" height="32"/>
   <img src="https://api.iconify.design/logos:typescript-icon.svg" alt="typescript" width="32" height="32"/>
