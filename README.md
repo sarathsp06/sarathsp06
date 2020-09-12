@@ -10,6 +10,7 @@ Right now, I’m excited about Coding practises, Golang and much promising Rust 
   <img src="https://badgen.net/keybase/pgp/sarathsp06?icon=keybase" alt="keybase" title="Keybase" />
   <img src="https://badgen.net/badge/icon/terminal?icon=terminal&label=lover" alt="terminal" title="terminal" />
   <img src="https://badgen.net/badge/icon/pypi?icon=pypi&label=hacker" alt="pypi" title="Python" />
+  <img src="https://badgen.net/badge/icon/telegram?icon=telegram&label=online" alt="pypi" title="Python" />
   <img src="https://badgen.net/badge/icon/typescript?icon=typescript&label=fan" alt="typeescript" title="Typecript" />
 </p>
 
