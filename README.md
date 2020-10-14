@@ -5,7 +5,6 @@ I'm Sarath. I'm a backend developer,and I mostly work with Web Backend Services 
 Right now, I’m excited about Coding practises, Golang and much promising Rust + WebAssembly.
 
 <p align="center">
-  <a href="https://www.codementor.io/@sarathsp06?refer=badge"><img src="https://www.codementor.io/m-badges/sarathsp06/contact-me.svg" alt="Codementor badge"></a>
   <img src="https://komarev.com/ghpvc/?username=sarathsp06" alt="sarathsp06" title="sarathsp06" />
   <img src="https://badgen.net/badge/icon/git?icon=git&label=user" alt="git" title="Git" />
   <img src="https://badgen.net/keybase/pgp/sarathsp06?icon=keybase" alt="keybase" title="Keybase" />
