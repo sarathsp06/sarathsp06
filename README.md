@@ -41,7 +41,7 @@ Right now, I’m excited about Coding practises, Golang and much promising Rust 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarathsp06&show_icons=true" alt="sarathsp06" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarathsp06&show_icons=true&count_private=true" alt="sarathsp06" />
 </p>
 
 <p align="center">
