@@ -22,7 +22,7 @@ Right now, I’m excited about Coding practises, Golang and much promising Rust 
 
 📫 You can reach me on **sarathsp06@gmail.com** 
 
-🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
+🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [PostgresQL](https://www.postgresql.org/)
 
 👯 I’m looking to collaborate on tools built with golang or rust
 
