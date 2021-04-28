@@ -16,7 +16,7 @@ Right now, I’m excited about Coding practices, Golang, and much promising Rust
 
 
 
-👨‍💻 My projects and blogs are available at [sarathsp.com](https://sarathsp.com)
+👨‍💻 My projects and blogs are available at [sarathsadasivan.com](https://sarathsadasivan.com)
 
 💬 Ask me about **Golang, GNU/Linux, Python REST, Malayalam, networking**
 
