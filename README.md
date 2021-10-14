@@ -39,10 +39,13 @@ Right now, I’m excited about Coding practices, Golang, and much promising Rust
   <img src="https://api.iconify.design/logos:duckduckgo.svg" alt="duckduckgo" width="32" height="32"/>
    <img src="https://api.iconify.design/logos:rust.svg" alt="rust" width="32" height="32"/>
 </p>
-
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=sarathsp06&theme=react-dark&hide_border=true&area=true" alt="contribution-graph">
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarathsp06&show_icons=true&count_private=true&theme=material-palenight" alt="sarathsp06" />
 </p>
+
 
 <p align="center">
   <a href="https://twitter.com/sarath_sp06" title="twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter icon" height="24" width="24" /></a>
