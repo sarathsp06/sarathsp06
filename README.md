@@ -6,23 +6,21 @@ Right now, I’m excited about Coding practices, Golang, and much promising Rust
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarathsp06" alt="sarathsp06" title="sarathsp06" />
-  <img src="https://badgen.net/badge/icon/git?icon=git&label=user" alt="git" title="Git" />
-  <img src="https://badgen.net/keybase/pgp/sarathsp06?icon=keybase" alt="keybase" title="Keybase" />
-  <img src="https://badgen.net/badge/icon/terminal?icon=terminal&label=lover" alt="terminal" title="terminal" />
-  <img src="https://badgen.net/badge/icon/pypi?icon=pypi&label=hacker" alt="pypi" title="Python" />
-  <img src="https://badgen.net/badge/icon/telegram?icon=telegram&label=online" alt="pypi" title="Python" />
-  <img src="https://badgen.net/badge/icon/typescript?icon=typescript&label=fan" alt="typeescript" title="Typecript" />
+  <img src="https://flat.badgen.net/badge/icon/git?icon=git&label=user" alt="git" title="Git" />
+  <img src="https://flat.badgen.net/keybase/pgp/sarathsp06?icon=keybase" alt="keybase" title="Keybase" />
+  <img src="https://flat.badgen.net/badge/icon/terminal?icon=terminal&label=lover" alt="terminal" title="terminal" />
+  <img src="https://flat.badgen.net/badge/icon/pypi?icon=pypi&label=hacker" alt="pypi" title="Python" />
+  <img src="https://flat.badgen.net/badge/icon/telegram?icon=telegram&label=online" alt="pypi" title="Python" />
 </p>
 
 
 
 👨‍💻 My projects and blogs are available at [sarathsadasivan.com](https://sarathsadasivan.com)
 
-💬 Ask me about **Golang, GNU/Linux, Python REST, Malayalam, networking**
+💬 Ask me about **Golang, GNU/Linux, Python REST, Malayalam, SQL**
 
 📫 You can reach me on **sarathsp06@gmail.com** 
 
-🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [Deep Learning](https://course.fast.ai/)
 
 👯 I’m looking to collaborate on tools built with golang or rust
 
