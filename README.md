@@ -37,7 +37,7 @@ Right now, I’m excited about Coding practices, Golang, and much promising Rust
   <img src="https://api.iconify.design/logos:python.svg" alt="linux" width="32" height="32"/>
   <img src="https://api.iconify.design/logos:typescript-icon.svg" alt="typescript" width="32" height="32"/>
   <img src="https://api.iconify.design/logos:duckduckgo.svg" alt="duckduckgo" width="32" height="32"/>
-   <img src="https://api.iconify.design/logos:rust.svg" alt="rust" width="32" height="32"/>
+   <img src="https://api.iconify.design/logos:postgresql.svg" alt="rust" width="32" height="32"/>
 </p>
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=sarathsp06&theme=react-dark&hide_border=true&area=true" alt="contribution-graph">
