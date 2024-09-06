@@ -2,7 +2,6 @@
 
 I'm Sarath. I'm a backend developer, and I mostly work with Web Backend Services and fault-tolerant distributed systems. I care deeply about building interfaces that are reliable and writing code that is readable.
 
-Right now, I’m excited about Coding practices, Golang, and much promising Rust + WebAssembly.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarathsp06" alt="sarathsp06" title="sarathsp06" />
