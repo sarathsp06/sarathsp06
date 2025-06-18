@@ -29,3 +29,5 @@ I'm Sarath, a backend engineer with a focus on **Golang**, **distributed systems
   <a href="https://keybase.io/sarathsp06" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg" height="24" width="24" alt="Keybase" /></a>
   <a href="https://t.me/sarathsp06" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="24" width="24" alt="Telegram" /></a>
 </p>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=sarathsp06&row=1&theme=flat" alt="sarathsp06's trophies" />
